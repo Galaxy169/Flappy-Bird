@@ -3,6 +3,19 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/Galaxy169/Flappy-Bird">
+    <img src="https://github.com/user-attachments/assets/de23fe75-8148-4aaa-afe6-4f6874db0683" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">Flappy Bird</h3>
+    <a href="https://github.com/Galaxy169/Flappy-Bird"><strong>Explore the docs »</strong></a>
+</div>
+
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
